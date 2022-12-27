@@ -1,0 +1,247 @@
+
+
+@media (max-width: 450px) {
+  .wrapper {
+    width: 100%;
+    height: 150%;
+    overflow: hidden;
+  }
+  .container {
+    max-width: 393px;
+    padding: 0 5px;
+    position: relative;
+    right: -2px;
+  }
+  .header {
+    margin: 0px;
+  }
+  .nav_bar a {
+    display: none;
+  }
+  .header-logo {
+    margin-left: 19px;
+    margin-top: 25px;
+    width: 151px;
+    height: 30;
+  }
+  .fan-img1 {
+    top: 0;
+  }
+  .fan-img2 {
+    top: 68px;
+  }
+  .fan_title-block {
+    max-width: 393px;
+    height: 300px;
+    margin-top: 70px;
+    margin-left: 0px;
+  }
+  .fat_title {
+    font-size: 26px;
+    line-height: 33px;
+    color: #000000;
+    margin-top: 39px;
+    margin-right: 45px;
+  }
+  .zvez {
+    width: 28px;
+    position: relative;
+    top: 10px;
+    left: -90px;
+  }
+  .icon-left {
+    font-size: 26.2873px;
+    line-height: 33px;
+    position: relative;
+    left: -92px;
+  }
+  .spanIt {
+    position: relative;
+    right: -80px;
+    top: -33px;
+  }
+  .talks {
+    position: relative;
+    left: 50px;
+    top: -33px;
+
+  }
+  .fat_text {
+    font-size: 11px;
+    line-height: 14px;
+    width: 200px;
+    position: relative;
+    left: -17px;
+    bottom: 41px;
+  }
+  .fat_button {
+    box-shadow: 0px 6.57182px 21.9061px rgba(0, 0, 0, 0.13);
+    border-radius: 9px;
+    width: 105px;
+    height: 29px;
+    position: relative;
+    left: -13px;
+    top: -33px;
+    padding: 8px 0;
+    margin-top: 10px;
+    font-size: 8.76242px;
+    line-height: 11px;
+    text-align: center;
+  }
+  .fat_icon-block {
+    max-width: 383px;
+    padding: 0px 130px;
+  }
+  .fat_icon1 {
+    max-width: 71px;
+    top: -60px;
+    left: 25px;
+  }
+  .fat_icon2 {
+    max-width: 71px;
+    top: -55px;
+    left: 6px;
+  }
+  .fat_icon3 {
+    max-width: 71px;
+    top: -60px;
+    left: -12px;
+  }
+  .fat_icon4 {
+    max-width: 71px;
+    top: -55px;
+    left: -34px;
+  }
+  .fat_icon5 {
+    max-width: 71px;
+    top: -60px;
+    left: -50px;
+  }
+  .why_mini {
+    width: 383px;
+    top: -479px;
+  }
+  .why-img1 {
+    display: none;
+  }
+  .why-img2 {
+    display: none;
+  }
+  .title-why {
+    font-size: 15px;
+    line-height: 20px;
+    color: #000000;
+    position: relative;
+    left: -15px;
+    top: -40px;
+    font-size: 15.716px;
+    line-height: 20px;
+  }
+  .why_text-block {
+    width: 332px;
+    height: 109px;
+    margin-left: -30px;
+    margin-top: -5px;
+    height: 110px;
+    border-radius: 13px;
+  }
+  .two {
+    height: 140px;
+    margin-top: 25px;
+  }
+  .icon {
+    width: 25px;
+    padding: 5px;
+    border-radius: 6.83109px;
+  }
+  .why_title {
+    font-size: 10px;
+    line-height: 12px;
+    margin-top: -34px;
+    margin-left: 14px;
+  }
+  .why-text {
+    font-size: 9px;
+    line-height: 12px;
+    margin-top: -30px;
+    margin-left: 48px;
+  }
+  .why_block img {
+    width: 25px;
+    margin-top: -35px;
+    margin-left: 11px;
+  }
+  .pay_block {
+    position: absolute;
+    z-index: 10;
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    top: 600px;
+  }
+  .pay_pay-title {
+    font-size: 15.8107px;
+    line-height: 20px;
+    text-align: center;
+    text-align: center;
+    color: #000000;
+    position: relative;
+    right: -26px;
+    top: -27px;
+  }
+  .pay_block-mini {
+    width: 334px;
+    margin-left: 20px;
+    border-radius: 13px;
+    position: relative;
+    top: -50px;
+    height: 248px;
+  }
+  .pay_text {
+    font-size: 8px;
+    line-height: 10px;
+    position: relative;
+    top: -11px;
+    left: -27px;
+  }
+  .pay-button {
+    width: 49px;
+    height: 23px;
+    margin-left: -19px;
+    margin-top: -19px;
+    border-radius: 6.5px;
+    font-size: 7.90533px;
+    line-height: 10px;
+  }
+  .pay_btn {
+    display: grid;
+    grid-template-columns: repeat(5, 16%);
+    grid-template-rows: repeat(6, 1fr);
+    grid-column-gap: 9px;
+    grid-row-gap: 29px;
+    margin: 17px 0 0 41px;
+  }
+
+  .pay_subtext {
+    font-size: 7px;
+    margin-top: 3px;
+    position: relative;
+    left: 17px;
+    line-height: 9px;
+  }
+  .pay_info-text {
+    font-size: 7.90533px;
+    line-height: 10px;
+    position: absolute;
+    top: 485px;
+    left: 76px;
+  }
+}
+
+
+@media(max-width: 394px){
+  .container{
+    position: relative;
+    left: 0px;
+  }
+}
